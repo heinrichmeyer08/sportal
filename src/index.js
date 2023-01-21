@@ -32,7 +32,7 @@ if (isLocalhost) {
   awsExports.oauth.redirectSignIn = signInURI[1]
   awsExports.oauth.redirectSignOut = signOutURI[1]
 } else {
-  console.alert('This is not possible')
+  console.alert('This is not possible');
 
 }
 //Check if you are in localhost or production
