@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sportal-dev-205221-authRole",
+      "UnauthRoleArn": "arn:aws:iam::108769376633:role/amplify-sportal-dev-205221-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::108769376633:role/amplify-sportal-dev-205221-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-sportal-dev-205221-deployment",
+      "UnauthRoleName": "amplify-sportal-dev-205221-unauthRole",
+      "StackName": "amplify-sportal-dev-205221",
+      "StackId": "arn:aws:cloudformation:eu-central-1:108769376633:stack/amplify-sportal-dev-205221/1fda9860-99c5-11ed-b785-029fe6d354d8",
+      "AmplifyAppId": "dp3uqt85wcln1"
+    },
+    "categories": {
+      "auth": {
+        "sportal24dd3cce": {}
+      }
+    }
+  }
+}
